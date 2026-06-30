@@ -97,7 +97,8 @@ Through this project, I gained hands-on experience in:
 
 ## 📬 Contact
 
-📧 **Email:** rakshitad76@gmail.com
+📧 **Email:** 
+rakshitad76@gmail.com
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/rakshita-d-8b7539308/
