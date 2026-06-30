@@ -108,11 +108,17 @@ https://github.com/rakshitad22
 
 ---
 
-## 📄 Live Demo
+## 🌐 Live Demo
 
 🔗 **Portfolio Website**
 
-*(Add your GitHub Pages or Netlify link here after deployment.)*
+https://rakshitad22.github.io/portfolio-website/
+
+---
+
+## 📂 GitHub Repository
+
+https://github.com/rakshitad22/portfolio-website
 
 ---
 
